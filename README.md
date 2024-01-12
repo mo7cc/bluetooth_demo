@@ -158,3 +158,5 @@ http://doc.elinkthings.com/web/#/4?page_id=22
 
 Android sdk 使用指南：
 http://doc.elinkthings.com/web/#/4?page_id=44
+
+利用东盛健康小程序作为开发主体

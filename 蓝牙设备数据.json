@@ -1,0 +1,531 @@
+{
+  "devices": [
+    {
+      "deviceId": "5B:CD:BC:93:7E:6C",
+      "name": "",
+      "RSSI": -95,
+      "localName": "",
+      "advertisServiceUUIDs": ["0000FDAA-0000-1000-8000-00805F9B34FB"],
+      "advertisData": {},
+      "serviceData": { "0000FDAA-0000-1000-8000-00805F9B34FB": {} }
+    },
+    {
+      "deviceId": "00:2A:36:F8:C1:C5",
+      "name": "",
+      "RSSI": -66,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "C5:89:36:45:2F:8D",
+      "name": "",
+      "RSSI": -78,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "51:21:DD:A5:04:C8",
+      "name": "",
+      "RSSI": -89,
+      "localName": "",
+      "advertisServiceUUIDs": ["0000FDAA-0000-1000-8000-00805F9B34FB"],
+      "advertisData": {},
+      "serviceData": { "0000FDAA-0000-1000-8000-00805F9B34FB": {} }
+    },
+    {
+      "deviceId": "65:18:D3:09:D8:BE",
+      "name": "",
+      "RSSI": -78,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "53:DA:7D:73:87:CC",
+      "name": "",
+      "RSSI": -56,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "14:22:67:05:01:5C",
+      "name": "",
+      "RSSI": -65,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "75:72:29:EC:52:33",
+      "name": "",
+      "RSSI": -74,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "FA:D6:B7:74:A6:EB",
+      "name": "",
+      "RSSI": -84,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "F3:38:D3:0B:3F:14",
+      "name": "",
+      "RSSI": -61,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "F6:70:ED:5A:F8:AC",
+      "name": "",
+      "RSSI": -92,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "F5:05:7E:42:BA:FF",
+      "name": "",
+      "RSSI": -65,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "49:02:AA:0F:AA:2D",
+      "name": "",
+      "RSSI": -45,
+      "localName": "",
+      "advertisServiceUUIDs": ["0000FDAA-0000-1000-8000-00805F9B34FB"],
+      "advertisData": {},
+      "serviceData": { "0000FDAA-0000-1000-8000-00805F9B34FB": {} }
+    },
+    {
+      "deviceId": "73:3A:C4:E6:A1:C8",
+      "name": "",
+      "RSSI": -54,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "EE:0C:15:5D:A4:BB",
+      "name": "",
+      "RSSI": -74,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "F2:9D:CA:27:9D:62",
+      "name": "",
+      "RSSI": -46,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "71:83:6A:DA:A5:02",
+      "name": "",
+      "RSSI": -85,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "6F:8D:65:C8:59:57",
+      "name": "",
+      "RSSI": -76,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "E9:47:F2:7F:80:AB",
+      "name": "",
+      "RSSI": -93,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "55:C3:23:3E:FB:64",
+      "name": "",
+      "RSSI": -58,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "5B:CF:B3:47:A4:54",
+      "name": "",
+      "RSSI": -56,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "56:C4:6E:06:74:83",
+      "name": "",
+      "RSSI": -56,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "FF:48:96:0E:36:AD",
+      "name": "",
+      "RSSI": -77,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "75:F5:F1:E1:07:B6",
+      "name": "",
+      "RSSI": -82,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "53:C3:82:83:08:44",
+      "name": "",
+      "RSSI": -64,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "66:C5:31:63:A2:83",
+      "name": "",
+      "RSSI": -73,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "6C:92:F1:63:FF:4F",
+      "name": "",
+      "RSSI": -82,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "68:15:20:1F:60:AD",
+      "name": "",
+      "RSSI": -69,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "01:BA:01:01:D7:16",
+      "name": "",
+      "RSSI": -84,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "7A:C7:CB:B0:BB:07",
+      "name": "",
+      "RSSI": -56,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "7C:2B:B4:9F:FF:BF",
+      "name": "",
+      "RSSI": -63,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "68:35:4B:ED:94:10",
+      "name": "",
+      "RSSI": -70,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "67:19:97:C6:06:EE",
+      "name": "",
+      "RSSI": -92,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "EA:6D:D6:51:1B:AD",
+      "name": "",
+      "RSSI": -66,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "C9:D9:59:B3:E9:3F",
+      "name": "",
+      "RSSI": -89,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "65:B2:0B:E9:F6:70",
+      "name": "",
+      "RSSI": -54,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "74:9B:32:BD:07:E4",
+      "name": "LAPTOP-2JQ19LUI",
+      "RSSI": -72,
+      "localName": "LAPTOP-2JQ19LUI",
+      "advertisServiceUUIDs": [
+        "0000180A-0000-1000-8000-00805F9B34FB",
+        "11C8B310-80E4-4276-AFC0-F81590B2177F"
+      ]
+    },
+    {
+      "deviceId": "FB:98:22:7B:B5:2B",
+      "name": "",
+      "RSSI": -71,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "5E:B3:FF:DA:E1:49",
+      "name": "",
+      "RSSI": -56,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "CA:19:54:74:36:B4",
+      "name": "",
+      "RSSI": -86,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "44:5C:F9:68:69:90",
+      "name": "EDIFIER BLE",
+      "RSSI": -91,
+      "localName": "EDIFIER BLE",
+      "advertisServiceUUIDs": ["00002000-0000-1000-8000-00805F9B34FB"],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "CC:A2:5A:2A:68:CA",
+      "name": "",
+      "RSSI": -73,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "41:55:67:C7:F1:9D",
+      "name": "",
+      "RSSI": -85,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "E4:E1:12:48:5F:A9",
+      "name": "N/A",
+      "RSSI": -91,
+      "localName": "N/A",
+      "advertisServiceUUIDs": ["10991775-2510-4741-8212-E4E112485FA9"]
+    },
+    {
+      "deviceId": "2B:86:53:FA:72:0E",
+      "name": "",
+      "RSSI": -72,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "E7:8A:4F:A2:F9:FA",
+      "name": "",
+      "RSSI": -81,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "5A:99:60:8C:DC:C7",
+      "name": "",
+      "RSSI": -70,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "65:57:46:6B:88:98",
+      "name": "",
+      "RSSI": -87,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "C1:23:03:5D:70:DE",
+      "name": "",
+      "RSSI": -54,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "38:9F:2F:FE:36:00",
+      "name": "",
+      "RSSI": -71,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "84:1B:38:A0:9F:5C",
+      "name": "BOC-3147",
+      "RSSI": -85,
+      "localName": "BOC-3147",
+      "advertisServiceUUIDs": ["0000180A-0000-1000-8000-00805F9B34FB"],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "56:6F:20:53:4C:4C",
+      "name": "",
+      "RSSI": -69,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "13:A6:DA:D5:0B:07",
+      "name": "",
+      "RSSI": -82,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "DF:0B:65:ED:A3:3F",
+      "name": "",
+      "RSSI": -66,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "F5:FE:14:28:67:FC",
+      "name": "",
+      "RSSI": -71,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "6D:AD:66:B7:8D:D2",
+      "name": "",
+      "RSSI": -83,
+      "localName": "",
+      "advertisServiceUUIDs": ["0000FDAA-0000-1000-8000-00805F9B34FB"],
+      "advertisData": {},
+      "serviceData": { "0000FDAA-0000-1000-8000-00805F9B34FB": {} }
+    },
+    {
+      "deviceId": "3E:FB:35:AB:1E:04",
+      "name": "",
+      "RSSI": -73,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "E3:71:51:07:56:63",
+      "name": "",
+      "RSSI": -86,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "C8:FC:D9:7A:69:FD",
+      "name": "",
+      "RSSI": -78,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "52:43:CD:F3:11:10",
+      "name": "",
+      "RSSI": -78,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {},
+      "serviceData": { "0000FDEE-0000-1000-8000-00805F9B34FB": {} }
+    },
+    {
+      "deviceId": "E8:4B:B8:A1:96:73",
+      "name": "",
+      "RSSI": -92,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "EE:B7:FF:C5:17:53",
+      "name": "",
+      "RSSI": -58,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "74:8D:94:10:E8:ED",
+      "name": "",
+      "RSSI": -63,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "55:AA:45:4C:7A:2D",
+      "name": "",
+      "RSSI": -94,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    },
+    {
+      "deviceId": "D7:DB:F2:2A:5A:3F",
+      "name": "",
+      "RSSI": -92,
+      "localName": "",
+      "advertisServiceUUIDs": [],
+      "advertisData": {}
+    }
+  ],
+  "errMsg": "getBluetoothDevices:ok"
+}
