@@ -29,6 +29,7 @@
       "android": {
         "permissions": [
           "<uses-feature android:name=\"android.hardware.camera\"/>",
+          "<uses-feature android:name=\"android.hardware.bluetooth_le\" android:required=\"true\"/>",
           "<uses-feature android:name=\"android.hardware.camera.autofocus\"/>",
           "<uses-permission android:name=\"android.permission.BLUETOOTH\"/>",
           "<uses-permission android:name=\"android.permission.BLUETOOTH_ADMIN\"/>",
